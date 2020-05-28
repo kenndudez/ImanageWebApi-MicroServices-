@@ -1,0 +1,33 @@
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Dafmis.Shared.deps.json
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Dafmis.Shared.runtimeconfig.json
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Dafmis.Shared.runtimeconfig.dev.json
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Dafmis.Shared.dll
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Dafmis.Shared.pdb
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\obj\Release\netcoreapp2.2\Dafmis.Shared.csprojAssemblyReference.cache
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\obj\Release\netcoreapp2.2\Dafmis.Shared.AssemblyInfoInputs.cache
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\obj\Release\netcoreapp2.2\Dafmis.Shared.AssemblyInfo.cs
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\obj\Release\netcoreapp2.2\Dafmis.Shared.dll
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\obj\Release\netcoreapp2.2\Dafmis.Shared.pdb
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.dll
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.dylib
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.so
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.dll
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.dylib
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.so
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.dylib
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.so
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.dylib
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.so
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Dafmis.Shared.deps.json
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Dafmis.Shared.runtimeconfig.json
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Dafmis.Shared.runtimeconfig.dev.json
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Dafmis.Shared.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\bin\Release\netcoreapp2.2\Dafmis.Shared.pdb
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\obj\Release\netcoreapp2.2\Dafmis.Shared.csprojAssemblyReference.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\obj\Release\netcoreapp2.2\Dafmis.Shared.csproj.CoreCompileInputs.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\obj\Release\netcoreapp2.2\Dafmis.Shared.AssemblyInfoInputs.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\obj\Release\netcoreapp2.2\Dafmis.Shared.AssemblyInfo.cs
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\obj\Release\netcoreapp2.2\Dafmis.Shared.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Shared\obj\Release\netcoreapp2.2\Dafmis.Shared.pdb

@@ -1,0 +1,17 @@
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\bin\Debug\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\bin\Debug\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.dylib
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\bin\Debug\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.so
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\bin\Debug\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\bin\Debug\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.dylib
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\bin\Debug\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.so
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\bin\Debug\netcoreapp2.2\Imanage.Shared.deps.json
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\bin\Debug\netcoreapp2.2\Imanage.Shared.runtimeconfig.json
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\bin\Debug\netcoreapp2.2\Imanage.Shared.runtimeconfig.dev.json
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\bin\Debug\netcoreapp2.2\Imanage.Shared.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\bin\Debug\netcoreapp2.2\Imanage.Shared.pdb
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\obj\Debug\netcoreapp2.2\Imanage.Shared.csprojAssemblyReference.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\obj\Debug\netcoreapp2.2\Imanage.Shared.csproj.CoreCompileInputs.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\obj\Debug\netcoreapp2.2\Imanage.Shared.AssemblyInfoInputs.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\obj\Debug\netcoreapp2.2\Imanage.Shared.AssemblyInfo.cs
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\obj\Debug\netcoreapp2.2\Imanage.Shared.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Imanage.Shared\obj\Debug\netcoreapp2.2\Imanage.Shared.pdb

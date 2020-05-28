@@ -1,0 +1,45 @@
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\obj\Release\netcoreapp2.2\Auth.Core.csprojAssemblyReference.cache
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\obj\Release\netcoreapp2.2\Auth.Core.AssemblyInfoInputs.cache
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\obj\Release\netcoreapp2.2\Auth.Core.AssemblyInfo.cs
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.dll
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.dylib
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.so
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.dll
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.dylib
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.so
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\SProcs\Sp_GetAllUsersByRole.sql
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\SProcs\Sp_GetPartnerUsers.sql
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\SProcs\Sp_GetPefUsers.sql
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Auth.Core.deps.json
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Auth.Core.runtimeconfig.json
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Auth.Core.runtimeconfig.dev.json
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Auth.Core.dll
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Auth.Core.pdb
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Dafmis.Shared.dll
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Dafmis.Shared.pdb
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\obj\Release\netcoreapp2.2\Auth.Core.csproj.CopyComplete
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\obj\Release\netcoreapp2.2\Auth.Core.dll
+C:\Users\Dell XPS 15\source\repos\DAFMIS\Dafmis.Auth.Core\obj\Release\netcoreapp2.2\Auth.Core.pdb
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.dylib
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.so
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.dylib
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.so
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\SProcs\Sp_GetAllUsersByRole.sql
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\SProcs\Sp_GetPartnerUsers.sql
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\SProcs\Sp_GetPefUsers.sql
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Auth.Core.deps.json
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Auth.Core.runtimeconfig.json
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Auth.Core.runtimeconfig.dev.json
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Auth.Core.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Auth.Core.pdb
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Dafmis.Shared.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\bin\Release\netcoreapp2.2\Dafmis.Shared.pdb
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\obj\Release\netcoreapp2.2\Auth.Core.csprojAssemblyReference.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\obj\Release\netcoreapp2.2\Auth.Core.csproj.CoreCompileInputs.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\obj\Release\netcoreapp2.2\Auth.Core.AssemblyInfoInputs.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\obj\Release\netcoreapp2.2\Auth.Core.AssemblyInfo.cs
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\obj\Release\netcoreapp2.2\Auth.Core.csproj.CopyComplete
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\obj\Release\netcoreapp2.2\Auth.Core.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\DAFMIS\Dafmis.Auth.Core\obj\Release\netcoreapp2.2\Auth.Core.pdb

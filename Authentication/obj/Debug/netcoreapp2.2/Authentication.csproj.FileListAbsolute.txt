@@ -1,0 +1,3 @@
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Authentication\obj\Debug\netcoreapp2.2\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Authentication\obj\Debug\netcoreapp2.2\Authentication.AssemblyInfoInputs.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Authentication\obj\Debug\netcoreapp2.2\Authentication.AssemblyInfo.cs

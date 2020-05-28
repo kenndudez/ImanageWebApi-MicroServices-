@@ -1,0 +1,4 @@
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Core\obj\Debug\netcoreapp2.2\Admin.Core.csprojAssemblyReference.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Core\obj\Debug\netcoreapp2.2\Admin.Core.csproj.CoreCompileInputs.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Core\obj\Debug\netcoreapp2.2\Admin.Core.AssemblyInfoInputs.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Core\obj\Debug\netcoreapp2.2\Admin.Core.AssemblyInfo.cs

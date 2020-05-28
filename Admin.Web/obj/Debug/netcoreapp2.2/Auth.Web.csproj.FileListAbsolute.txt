@@ -1,0 +1,25 @@
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.dylib
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Utils\DinkToPdf\32 bit\libwkhtmltox.so
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.dylib
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Utils\DinkToPdf\64 bit\libwkhtmltox.so
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Auth.Web.deps.json
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Auth.Web.runtimeconfig.json
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Auth.Web.runtimeconfig.dev.json
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Auth.Web.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Auth.Web.pdb
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Auth.Core.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Imanage.Shared.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Auth.Core.pdb
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Imanage.Shared.pdb
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Auth.Web.csprojAssemblyReference.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Auth.Web.csproj.CoreCompileInputs.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Auth.Web.RazorAssemblyInfo.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Auth.Web.RazorAssemblyInfo.cs
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Auth.Web.AssemblyInfoInputs.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Auth.Web.AssemblyInfo.cs
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Auth.Web.RazorTargetAssemblyInfo.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Auth.Web.csproj.CopyComplete
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Auth.Web.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Auth.Web.pdb

@@ -1,0 +1,14 @@
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Admin.Web.csproj.CoreCompileInputs.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Admin.Web.AssemblyInfoInputs.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Admin.Web.AssemblyInfo.cs
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Admin.Web.deps.json
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Admin.Web.runtimeconfig.json
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Admin.Web.runtimeconfig.dev.json
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Admin.Web.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\bin\Debug\netcoreapp2.2\Admin.Web.pdb
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Admin.Web.csprojAssemblyReference.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Admin.Web.RazorAssemblyInfo.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Admin.Web.RazorAssemblyInfo.cs
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Admin.Web.RazorTargetAssemblyInfo.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Admin.Web.dll
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\IManage\Admin.Web\obj\Debug\netcoreapp2.2\Admin.Web.pdb
